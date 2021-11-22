@@ -26,7 +26,7 @@
 
  - python
  - tensorflow
-
+ - LSTM
 ### 6. 결과
 
 - 상위 25%
